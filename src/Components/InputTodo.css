@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+
+input{
+    border: 2px solid rgb(2, 15, 2);
+    height: 70%;
+    width: 70%;
+}
+.btn-add{
+    background-color: rgb(230, 13, 49);
+
+}
+h1{
+    color: rgb(224, 243, 236);
+}
